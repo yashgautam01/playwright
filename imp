@@ -1,0 +1,11 @@
+remember to run pip freeze > requirements.txt 
+so that we can keep track of dependencies.
+
+these are the dependenices we are using in this framework 
+if we run pip install -r required.txt  
+it will install all dependenices we needed in once
+
+
+
+
+to run test case just type ->"  pytest " ,now 
